@@ -1,1 +1,2 @@
-placeholder till RTM.
+What's new in 1.17.0?
+ - scratchOS Birch has officially reached RTM. Hooray!
